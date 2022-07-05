@@ -951,7 +951,6 @@ body.smr-open .slide-menu-right {
   line-height: 48px;
   margin-top: 40px;
   color: #19283f;
-  text-align: justify;
 }
 
 .wrap-9 .bag-37 span {
@@ -1168,25 +1167,105 @@ color: #FFFFFF;
 margin: 0 50px;
 }
 
+/* Features Page started */
+
+.wrap-12{
+  padding: 30px 0;
+}
+.wrap-12 .bag-46{}
+.wrap-12 .bag-46 h2{
+  font-family: 'Aeonik';
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+margin-top: 100px;
+color: #19283F;
+}
+
+.wrap-12 .bag-47{
+  background-image: url(../images/bg3.png);
+  margin-top: 250px;
+  border-radius: 15px;
+}
+.wrap-12 .bag-48{
+  display: flex;
+  justify-content: center;
+}
+.wrap-12 .bag-48 img{
+  margin-top: -106px;
+}
+.wrap-12 .bag-49 h2{
+  font-family: 'Aeonik';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+color: #23A036;
+}
+.wrap-12 .bag-49 p{
+  font-family: 'Aeonik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  color: #19283F;
+  margin: 10px 0;
+}
+.wrap-12 .bag-50 img{
+  border: 2px solid #000;
+  border-radius: 50%;
+  padding: 11px;
+  margin: 0 15px;
+}
+.wrap-12 .bag-50 button {
+  font-family: "Aeonik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  color: #868e9a;
+  background-color: transparent;
+  border: 1px solid #868e9a;
+}
+
+.wrap-12 .bag-50 h6 {
+  font-family: "Aeonik";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  margin-top: 30px;
+  display: inline-block;
+  color: #19283F;
+}
+
+.wrap-12 .bag-51{
+  margin-top: 250px;
+  width: 74%;
+  margin-left: auto;
+}
+.wrap-12 .bag-52{
+  margin-top: 341px;
+}
+
+.slick-slide img{
+  display: initial !important;
+}
+.slick-initialized .slick-slide{
+  display: block;
+  
+}
+.slick-dots{display: none;}
 
 
 
 
 
-
-
-
-
-
-
-/* about closed */
-
-/* home closed */
 
 /* Media Query Started */
 
 @media (max-width: 575.98px) {
-  .wrap-9 .bag-37 p{font-size: 25px; text-align: justify;line-height: 0 !important;}
+  .wrap-8{display: none;}
+  .slick-next{display: none;}
+  .slick-initialized .slick-slide{display: none;}
+  .wrap-9 .bag-37 p{font-size: 25px; text-align: justify;line-height: 1 !important;}
   .wrap-6 .bag-18 img{width: 100% !important;}
   .wrap-6 .bag-15 .bag-17 h6{
     display: block;
