@@ -88,10 +88,10 @@ class Footer extends Component {
 						</div>
 
 					<div className="col-md-12">
-						<div className="bag-43">
+						{/* <div className="bag-43">
 							<p>Made with❤️ from the African Diaspora 🌍 </p>
 							
-						</div>
+						</div> */}
 						<div className="bag-44">
 						<p>© Copyright MyFarmPet 2022. All Rights Reserved</p>
 						</div>
