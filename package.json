@@ -5,13 +5,15 @@
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
-    "@mui/material": "^5.8.6",
+    "@material-ui/core": "^5.0.0-beta.5",
+    "@mui/material": "^5.8.7",
     "aos": "^2.3.4",
     "bxslider": "^4.2.14",
     "google-map-react": "^1.0.6",
     "google-maps-react": "^2.0.2",
     "immutable": "^3.8.2",
     "jquery": "^3.6.0",
+    "npm-install-global": "^1.0.0",
     "react": "^16.5.0",
     "react-alt-text": "^2.0.0",
     "react-bootstrap": "^0.32.3",
@@ -29,7 +31,7 @@
     "react-responsive-carousel": "^3.2.23",
     "react-responsive-modal": "^3.4.0",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "1.1.5",
+    "react-scripts": "2.x.x",
     "react-slick": "^0.29.0",
     "react-switch": "^3.0.4",
     "react-tabs": "^5.1.0",
@@ -47,9 +49,14 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "deploy": "aws --profile predictz --region us-east-1 s3 sync ./build s3://farmpet-new-ui --delete"
-    
   },
   "devDependencies": {
     "@types/reactstrap": "^6.4.0"
-  }
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }

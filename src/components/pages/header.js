@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Button, Modal, ModalHeader, ModalBody, Row } from "reactstrap";
+ 
 
 import { ToastContainer } from "react-toastify";
 import "../css/style.css";
@@ -33,14 +33,14 @@ class Header extends Component {
       $("body").append(mask);
 
       /* slide menu right */
-      toggleSlideRight.addEventListener("click", function() {
+      toggleSlideRight.addEventListener("click", function () {
         $("body").addClass("smr-open");
         $(".mask").fadeIn();
         activeNav = "smr-open";
       });
 
       /* hide active menu if close menu button is clicked */
-      $(document).on("click", ".close-menu", function(el, i) {
+      $(document).on("click", ".close-menu", function (el, i) {
         $("body").removeClass(activeNav);
         activeNav = "";
         $(".mask").fadeOut();
@@ -65,20 +65,18 @@ class Header extends Component {
               <div className="header-c2">
                 <ul className="menu-list-d">
                   <li>
-                    <a href="#">Home</a>
+                    <Link to="/">Home</Link>
                   </li>
                   <li>
                     <Link to="/Features">Features</Link>
                   </li>
                   <li>
-                    <a href="#">Products</a>
+                    <a href="/#products">Products</a>
                   </li>
                   <li>
-                    <a href="#">How it Works</a>
+                    <a href="/#howitworks">How it Works</a>
                   </li>
-                  <li>
-                    <a href="#">Contacts Us</a>
-                  </li>
+                   
                 </ul>
                 <div className="burger-area">
                   <a href="#" className="burgers toggle-slide-right">
@@ -110,33 +108,27 @@ class Header extends Component {
             </button>
             <ul className="menu-list2">
               <li>
-                <a href="/">Home</a>
+                <Link to="/" className="close-menu">Home</Link>
               </li>
               <li>
-                <a href="#about-section" className="close-menu">
-                  TRADE
+                <Link to="/Features" className="close-menu">Features</Link>
+              </li>
+              <li>
+                <a href="/#products" className="close-menu">Products</a>
+              </li>
+              <li>
+                <a href="/#howitworks" className="close-menu">How it Works</a>
+              </li>
+               
+              <li>
+                <a href="#" className="close-menu">
+                  <img src={apple}></img>
                 </a>
               </li>
               <li>
-                <a href="#about-section" className="close-menu">
-                  EARN
+                <a href="#" className="close-menu">
+                  <img src={playstore}></img>
                 </a>
-              </li>
-              <li>
-                <a href="#about-section" className="close-menu">
-                  VAULT
-                </a>
-              </li>
-              <li>
-                <a href="#about-section" className="close-menu">
-                  NFT
-                </a>
-              </li>
-              <li>
-                <p className="connect-mobile">
-                  {" "}
-                  <a href="#">Launch App</a>
-                </p>
               </li>
             </ul>
           </div>

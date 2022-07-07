@@ -1,138 +1,271 @@
+@media(max-width: 1166px) {
+    .wrap-12 .bag-51 {
+        margin-top: 190px;
+        width: 100%;
+    }
+    .bnr>h3 {
+        padding: 0% 25%;
+    }
 
-@media(max-width: 1166px){
-   
-    .border-b{
+    .bagm-text {
+        margin-top: 330px !important;
+    }
+
+    .wrap-12 .bag-48 img {
+        width: 100%;
+    }
+
+    .imgbag-m {
+        margin-left: -82px !important;
+    }
+
+    .wrap-6 .bag-15 .bag-17 {
+        margin-top: 90px;
+        width: 75%;
+    }
+
+    .wrap-7 .bag-24 img {
+        width: 100%;
+    }
+
+    .wrap-9 .bag-37 {
+        margin-left: 20px;
+    }
+
+    .slick-dots {
+        margin-bottom: 70px !important;
+    }
+
+    .border-b {
         padding: 15px 52px;
     }
-    .million-box{
+
+    .million-box {
         padding: 15px;
         height: 250px;
     }
-    .million-box > span{
+
+    .million-box>span {
         font-size: 15px;
     }
-    .million-box > h3{
+
+    .million-box>h3 {
         font-size: 20px;
     }
+
     .top-cractor-img {
         margin-left: 0px;
     }
+
     .trade-totalbox {
         padding: 15px 15px 15px 15px;
     }
 }
-@media(max-width: 992px){
-    .million-content > h3 {
+
+@media(max-width: 992px) {
+    .bnr>h3 {
+        padding: 0% 18%;
+    }
+    .menu-list2>li>a>img {
+        width: 28px;
+        margin-right: 0px;
+    }
+
+    .wrap-12 .bag-46 h2 {
+        font-size: 50px;
+    }
+
+    .wrap-12 .bag-47 {
+        margin-top: 180px;
+    }
+
+    .wrap-12 .bag-52 {
+        margin-top: 180px;
+    }
+
+    .wrap-12 .bag-49 h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .wrap-12 .bag-51 {
+        margin-top: 80px;
+    }
+
+    .bagm-text {
+        margin-top: 180px !important;
+    }
+
+    .burgers>img {
+        width: 30px;
+    }
+
+    .wrap-6 .bag-15 {
+        padding: 27px 0px 0px 10px;
+    }
+
+    .wrap-6 .bag-18 img {
+        width: 75%;
+        margin-top: 178px;
+        margin-left: 99px;
+    }
+
+    .wrap-6 .bag-15 .bag-17 {
+        margin-top: 60px;
+        width: 100%;
+    }
+
+    .slick-dots {
+        margin-bottom: 100px !important;
+    }
+
+    .wrap-6 .bag-18 img {
+        width: 75%;
+        margin-top: 214px;
+        margin-left: 98px;
+    }
+
+    .million-content>h3 {
         font-size: 30px;
     }
-    .head-lightpaper > h3 {
+
+    .head-lightpaper>h3 {
         font-size: 30px;
     }
-    .trade-content > h3 {
+
+    .trade-content>h3 {
         font-size: 30px;
     }
+
     .providing-wrp {
         margin-bottom: 80px;
     }
+
     #million-sec {
         padding: 60px 0px 100px 0px;
     }
+
     .trade-section {
         padding-top: 0px;
         justify-content: center;
         text-align: center;
     }
+
     #lightpaper {
         padding: 40px 0px 60px 0px;
     }
-    .passive-content > p {
+
+    .passive-content>p {
         font-size: 13px;
     }
-    .passive-content > h3 {
+
+    .passive-content>h3 {
         font-size: 30px;
     }
+
     #tokenomic-sec {
         padding: 0% 0% 33% 0%;
     }
+
     .wrp-trade-total {
         justify-content: center;
     }
-   .header-c3{
-       display: none;
-   }
-   .border-b{
-       padding: 10px 30px;
-   }
+
+    .header-c3 {
+        display: none;
+    }
+
+    .border-b {
+        padding: 10px 30px;
+    }
+
     .toggle-slide-right {
         display: block;
     }
+
     .burger-area {
         display: block;
     }
-    .menu-list2 > li > a {
+
+    .menu-list2>li>a {
         font-weight: 500;
         font-size: 18px;
     }
-    
-    .menu-list-d{
+
+    .menu-list-d {
         display: none;
     }
-    .menu-list > li {
+
+    .menu-list>li {
         margin-left: 0px;
         margin-top: 10px;
     }
-    .menu-list > li > a {
+
+    .menu-list>li>a {
         font-size: 12px;
     }
+
     .banner-content {
         margin-top: 50px;
         text-align: center;
     }
-    .top-cractor-img{
+
+    .top-cractor-img {
         margin-top: 50px;
         margin-left: 0px;
         text-align: center;
     }
-    .row-r{
+
+    .row-r {
         flex-flow: column-reverse;
     }
+
     .charactor-img {
         text-align: center;
         margin-top: 80px;
     }
+
     .socialbanner {
         margin-top: 60px;
     }
+
     .socialbnrlist {
         justify-content: center;
     }
-    #banner-sec{
+
+    #banner-sec {
         padding-bottom: 60px;
     }
+
     .scroll-img {
         position: absolute;
         left: 48%;
         margin-top: 20px;
     }
-    .million-box{
+
+    .million-box {
         padding: 15px;
         height: auto;
         text-align: center;
         margin-top: 20px;
         height: 200px;
     }
-    .banner-content > h3 {
+
+    .banner-content>h3 {
         font-size: 30px;
         line-height: 40px;
     }
-    .token-img{
+
+    .token-img {
         text-align: center;
     }
-    .passive-content{
+
+    .passive-content {
         text-align: center;
         margin-top: 40px;
     }
-    .connect-mobile > a{
+
+    .connect-mobile>a {
         display: inline-block;
         font-size: 16px;
         color: #fff;
@@ -143,170 +276,459 @@
         vertical-align: middle;
         margin-top: 15px;
     }
-   
+
 }
-@media(max-width: 767px){
-    .menu-list2 > li > a {
+
+@media(max-width: 767px) {
+    .menu-list2>li>a {
         font-weight: 400;
         font-size: 15px;
     }
-    .wrp-trade-total{
+
+    .wrp-trade-total {
         flex-wrap: wrap;
         justify-content: space-evenly;
     }
+
     .trade-totalbox {
         margin-left: 0px;
     }
-    .trade-section{
+
+    .trade-section {
         text-align: center;
     }
 }
-@media(max-width: 640px){
-    .logo-box > a > img{
+
+@media(max-width: 640px) {
+    .bnr>h3 {
+        padding: 0% 20%;
+    }
+
+    .bnr>p {
+        font-size: 16px;
+    }
+
+    .bnr>h3>br {
+        display: none;
+    }
+
+    .get-started>a {
+        padding: 10px 10px;
+    }
+
+    .view>a {
+        padding: 10px 10px;
+    }
+
+    .logo-box>a>img {
         width: 130px;
     }
-    .btn-lightpaper{
+
+    .btn-lightpaper {
         margin-top: 30px;
     }
-    .banner-content > h3{
+
+    .banner-content>h3 {
         font-size: 24px;
         line-height: 30px;
     }
-    .banner-content > p {
+
+    .banner-content>p {
         font-size: 14px;
         color: #fff;
         margin-top: 10px;
     }
-  
-    #banner-sec{
+
+    #banner-sec {
         padding-bottom: 40px;
         padding-top: 65px;
         background-size: cover;
     }
-    .btn-banner > a{
+
+    .btn-banner>a {
         padding: 8px 15px;
         font-size: 14px;
     }
-    .btn-banner{
+
+    .btn-banner {
         margin-top: 20px;
     }
-    .banner-content > span{
+
+    .banner-content>span {
         font-size: 18px;
     }
-    #million-sec{
+
+    #million-sec {
         background-image: url(../images/Use-By-Million-respon.png);
         background-size: cover;
         padding: 40px 0px 60px 0px;
     }
-    .million-content > h3,.trade-content > h3,.passive-content > h3,.head-lightpaper > h3{
+
+    .million-content>h3,
+    .trade-content>h3,
+    .passive-content>h3,
+    .head-lightpaper>h3 {
         font-size: 24px;
-        
+
     }
-    .passive-content{
+
+    .passive-content {
         margin-top: 0px;
     }
-    .btn-explore > a{
+
+    .btn-explore>a {
         font-size: 14px;
         padding: 8px 15px;
     }
-    .trade-content{
+
+    .trade-content {
         text-align: center;
     }
-    .btn-explore{
+
+    .btn-explore {
         margin-top: 40px;
     }
-    #lightpaper{
+
+    #lightpaper {
         padding: 20px 0px 40px 0px;
         background-size: cover;
     }
-    .social-c-right{
+
+    .social-c-right {
         margin-top: 30px;
     }
+
     .lightpaper-content {
         margin-bottom: 140px;
     }
-    .footer-social-wrp{
+
+    .footer-social-wrp {
         padding: 30px 30px 0px 30px;
         display: inherit;
         text-align: center;
     }
-    .passive-content > p{
+
+    .passive-content>p {
         font-size: 14px;
     }
-    .trade-content > p > br{
+
+    .trade-content>p>br {
         display: none;
     }
-    .trade-content > p{
+
+    .trade-content>p {
         font-size: 14px;
     }
-    .btn-trades > a{
+
+    .btn-trades>a {
         font-size: 14px;
         padding: 8px 15px;
     }
-    #tokenomic-sec{
+
+    #tokenomic-sec {
         background-image: url(../images/Earn-Passive-respon.png);
         padding: 20px 0px 300px 0px;
         background-size: cover;
     }
-    .head-lightpaper > p{
+
+    .head-lightpaper>p {
         font-size: 14px;
         margin-top: 15px;
     }
-    .head-lightpaper > p > br{
+
+    .head-lightpaper>p>br {
         display: none;
     }
-    .trade-totalbox > h3{
+
+    .trade-totalbox>h3 {
         font-size: 16px;
     }
-    .btn-trades{
+
+    .btn-trades {
         margin-top: 40px;
     }
-    .million-content{
+
+    .million-content {
         padding-bottom: 10px;
     }
-    .million-box > p{
+
+    .million-box>p {
         font-size: 14px;
     }
-    .trade-section{
+
+    .trade-section {
         padding-top: 0px;
     }
-    .million-box > span{
+
+    .million-box>span {
         font-size: 17px;
     }
-    .million-box > h3{
+
+    .million-box>h3 {
         margin-top: 20px;
     }
-    .banner-content{
+
+    .banner-content {
         margin-top: 35px;
     }
-    #shiva{
+
+    #shiva {
         font-size: 18px;
     }
-    .count{
+
+    .count {
         font-size: 20px;
     }
-   
-    .trade-totalbox{
+
+    .trade-totalbox {
         width: 121px;
         margin-bottom: 20px;
     }
+
     .trade-totalbox {
         padding: 24px 15px 15px 15px;
     }
+
     .border-b {
         padding: 0px 15px;
         margin-top: 5px;
     }
-    
-    .burgers > img {
-        width: 24px;
+
+    .burgers>img {
+        width: 30px;
         margin-top: 0px;
         padding: 0 3px;
+        margin-right: 0px;
     }
 
-    
+
 }
 
 
+@media(max-width: 640px) {
 
+    .wrap-6 .bag-18 img {
+        width: 70% !important;
+    }
 
+    #bnr-wrp {
+        background-size: cover;
+        padding: 80px 0px 160px 0px;
+    }
+
+    .wrap-2 {
+        padding: 40px 0 !important;
+        text-align: center;
+    }
+
+    .wrap-2 .bag-1 h2 {
+        font-size: 24px;
+        margin-top: 10px;
+    }
+
+    .wrap-2 .bag-1 p {
+        text-align: inherit;
+        margin-top: 10px;
+    }
+
+    .wrap-2 .bag-2 {
+        margin-top: 30px;
+    }
+
+    .wrap-2 .bag-2 button {
+        display: inline;
+        padding: 8px 16px;
+    }
+
+    .wrap-2 .bag-3 img {
+        margin-top: 40px;
+    }
+
+    .wrap-3 .bag-4 {
+        margin-top: 0px !important;
+        text-align: center;
+    }
+
+    .wrap-3 .bag-5 p {
+        font-size: 24px;
+    }
+
+    .wrap-3 .bag-5 {
+        margin-top: 25px;
+    }
+
+    .wrap-3 .bag-6 p {
+        font-size: 15px !important;
+        text-align: center;
+    }
+
+    .wrap-3 .bag-7 {
+        margin-top: 33px !important;
+        text-align: center;
+        margin: 0px 0;
+    }
+
+    .wrap-4 {
+        padding: 40px 0;
+    }
+
+    .wrap-4 .bag-9 h2 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-top: 20px;
+    }
+
+    .css-19kzrtu {
+        padding: 0px !important;
+    }
+
+    .css-1gsv261 {
+        margin-bottom: 20px !important;
+    }
+
+    .wrap-6 .bag-15 .bag-17 {
+        text-align: center;
+    }
+
+    .wrap-6 .bag-15 .bag-17 h2 {
+        font-size: 20px;
+        margin-top: 20px;
+    }
+
+    .wrap-6 .bag-15 .bag-17 p {
+        margin-top: 10px;
+    }
+
+    .wrap-6 .bag-18 img {
+        margin-top: 90px;
+    }
+
+    .wrap-6 {
+        padding: 10px 0;
+    }
+
+    .wrap-7 {
+        padding: 40px 0;
+    }
+
+    .wrap-7 .bag-20 p {
+        font-size: 24px;
+        margin-top: 10px;
+    }
+
+    .wrap-7 .bag-21 {
+        margin-top: 20px;
+    }
+
+    .wrap-7 .bag-22 img {
+        width: 50px;
+    }
+
+    .bag-20 {
+        text-align: center;
+    }
+
+    .wrap-7 .bag-21 {
+        text-align: center;
+    }
+
+    .wrap-7 .bag-22 {
+        margin: 5px 0 20px;
+    }
+
+    .wrap-7 .bag-24 img {
+        margin-top: 0px;
+    }
+
+    .wrap-9 .bag-36 {
+        margin-top: 0px;
+    }
+
+    .wrap-9 .bag-37 {
+        margin-left: 0px;
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .wrap-9 .bag-37 p {
+        font-size: 20px;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .wrap-9 .bag-39 button {
+        margin: 10px;
+        width: 220px;
+    }
+
+    .wrap-10 .bag-40 h2 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-top: 0px;
+        text-align: center;
+    }
+
+    .wrap-10 .bag-40 p {
+        text-align: center;
+    }
+
+    .wrap-10 .bag-40 {
+        text-align: center;
+    }
+
+    .btn {
+        margin-top: 20px !important;
+    }
+
+    .wrap-10 {
+        padding: 30px 0;
+    }
+
+    .wrap-11 {
+        padding: 40px 0;
+        text-align: center;
+    }
+
+    .select {
+        width: 100%;
+    }
+
+    .bottom-list {
+        display: inherit;
+    }
+
+    .btmright>a {
+        margin-left: 15px;
+    }
+
+    .wrap-12 .bag-46 h2 {
+        font-size: 24px;
+    }
+
+    .bag-46 {
+        text-align: center;
+    }
+
+    .wrap-12 .bag-46 h2 {
+        margin-top: 50px;
+    }
+
+    .wrap-12 .bag-47 {
+        margin-top: 150px;
+    }
+
+    .bagm-text {
+        margin-top: 50px !important;
+        text-align: center;
+    }
+
+    .wrap-12 .bag-52 {
+        margin-top: 50px;
+        text-align: center;
+    }
+
+    .wrap-12 .bag-51 {
+        margin-top: 50px;
+        text-align: center;
+    }
+}
