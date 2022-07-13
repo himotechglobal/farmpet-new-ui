@@ -93,7 +93,7 @@ class Header extends Component {
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="https://play.google.com/store/apps/details?id=com.C.purefarm" target="_blank">
                       <img src={playstore}></img>
                     </a>
                   </li>
@@ -126,7 +126,7 @@ class Header extends Component {
                 </a>
               </li>
               <li>
-                <a href="#" className="close-menu">
+                <a href="https://play.google.com/store/apps/details?id=com.C.purefarm" target="_blank" className="close-menu">
                   <img src={playstore}></img>
                 </a>
               </li>

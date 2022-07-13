@@ -75,7 +75,7 @@ export default function BasicTabs() {
                     <p>Both iOS and Android devices support the "Farmpet." The app is available for download from the Apple Store or Google Play Store.</p>
 
                     <div className='iso-butn-wrp'>
-                      <a href='#'><img src={Img8} /></a>
+                      <a href='https://play.google.com/store/apps/details?id=com.C.purefarm' target='_blank'><img src={Img8} /></a>
                       <a href='#'><img src={Img9}/></a>
                       <h6>Get the App</h6>
                     </div>
@@ -112,7 +112,7 @@ export default function BasicTabs() {
                     <h2 className='bagtext2'>Fund you farmpet wallet</h2>
                     <p>The app lets you use any of these techniques to add money to your "Farmpet" wallet. Even our own licensed farmpet agents can fund your wallet in a matter of minutes. With this funds, you can purchase assets for your farm.</p>
                     <div className='iso-butn-wrp'>
-                      <a href='#'><img src={Img8} alt="" /></a>
+                      <a href='https://play.google.com/store/apps/details?id=com.C.purefarm' target='_blank'><img src={Img8} alt="" /></a>
                       <a href='#'><img src={Img9} alt="" /></a>
                       <h6>Get the App</h6>
                     </div>
@@ -137,7 +137,7 @@ export default function BasicTabs() {
                     <h2 className='bagtext3'>Buy assets to kickstart your farm</h2>
                     <p>Go to the Farmers Market section of the app. You can purchase the necessary assets here to establish your own farm. If assets are available at that time, you can choose to purchase directly from our own market or from the local market.</p>
                     <div className='iso-butn-wrp'>
-                      <a href='#'><img src={Img8} alt="" /></a>
+                      <a href='https://play.google.com/store/apps/details?id=com.C.purefarm' target='_blank'><img src={Img8} alt="" /></a>
                       <a href='#'><img src={Img9} alt="" /></a>
                       <h6>Get the App</h6>
                     </div>
@@ -162,7 +162,7 @@ export default function BasicTabs() {
                     <h2 className='bagtext4'>Start farming digitally and Relax</h2>
                     <p>Once assets have been properly acquired and added to your collection, you may customize your farm to your taste and launch it without any hassle.</p>
                     <div className='iso-butn-wrp'>
-                      <a href='#'><img src={Img8} alt="" /></a>
+                      <a href='https://play.google.com/store/apps/details?id=com.C.purefarm' target='_blank'><img src={Img8} alt="" /></a>
                       <a href='#'><img src={Img9} alt="" /></a>
                       <h6>Get the App</h6>
                     </div>

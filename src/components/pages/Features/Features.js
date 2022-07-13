@@ -40,7 +40,7 @@ const Features = () => {
                 </div>
                 <div className="bag-50">
                   <div className='iso-butn-wrp'>
-                    <a href='#'><img src={Img8} alt="" /></a>
+                    <a href='https://play.google.com/store/apps/details?id=com.C.purefarm' target='_blank'><img src={Img8} alt="" /></a>
                     <a href='#'><img src={Img9} alt="" /></a>
                     <h6>Get the App</h6>
                   </div>
@@ -58,7 +58,7 @@ const Features = () => {
                 </div>
                 <div className="bag-50">
                   <div className='iso-butn-wrp'>
-                    <a href='#'><img src={Img8} alt="" /></a>
+                    <a href='https://play.google.com/store/apps/details?id=com.C.purefarm' target='_blank'><img src={Img8} alt="" /></a>
                     <a href='#'><img src={Img9} alt="" /></a>
                     <h6>Get the App</h6>
                   </div>
@@ -90,7 +90,7 @@ const Features = () => {
                 </div>
                 <div className="bag-50">
                   <div className='iso-butn-wrp'>
-                    <a href='#'><img src={Img8} alt="" /></a>
+                    <a href='https://play.google.com/store/apps/details?id=com.C.purefarm' target='_blank'><img src={Img8} alt="" /></a>
                     <a href='#'><img src={Img9} alt="" /></a>
                     <h6>Get the App</h6>
                   </div>
@@ -108,7 +108,7 @@ const Features = () => {
                 </div>
                 <div className="bag-50">
                   <div className='iso-butn-wrp'>
-                    <a href='#'><img src={Img8} alt="" /></a>
+                    <a href='https://play.google.com/store/apps/details?id=com.C.purefarm' target='_blank'><img src={Img8} alt="" /></a>
                     <a href='#'><img src={Img9} alt="" /></a>
                     <h6>Get the App</h6>
                   </div>

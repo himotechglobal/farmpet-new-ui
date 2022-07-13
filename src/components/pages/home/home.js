@@ -42,7 +42,7 @@ function Home() {
               <div className="col-md-12">
                 <div className="bnr">
                   <h3>
-                    World’s first digital farming experience
+                    World’s first digital <br/>farming experience
                   </h3>
                   <p>Start farming from the comfort of your home</p>
                   <div className="bnr-butn-wrp">
@@ -70,9 +70,9 @@ function Home() {
               <div className="col-md-6">
                 <div className="bag-1">
                   <img src={Img1} alt="" />
-                  <h3>About US</h3>
+                  <h3>About Us</h3>
                   <h2>
-                    Who we are <span>Farmpet</span>
+                  What is <span>farmpet ?</span>
                   </h2>
                   <p>
                     Farmpet farming is a way to buy and own real profit earning
@@ -124,7 +124,7 @@ function Home() {
                       <img src={Img3} alt="" />
                       <h3>Live Assets</h3>
                       <p>
-                        Assets are exist on a live farm with insurance cover{" "}
+                      Assets exist on a live farm with insurance cover{" "}
                       </p>
                     </div>
                   </div>
@@ -246,7 +246,7 @@ function Home() {
           </div>
         </section>
 
-        <Slide />
+        {/* <Slide /> */}
 
 
 
@@ -267,8 +267,8 @@ function Home() {
                     <p>Join our 200,000+ users farming and setting long term goals!</p>
                   </div>
                   <div className="bag-39">
-                    <button className="btn btn-primary"><img src={Img8} alt="" /> GOOGLE PLAYSTORE</button>
-                    <button className="btn btn-primary"><img src={Img9} alt="" /> APPLE STORE</button>
+                    <a href='https://play.google.com/store/apps/details?id=com.C.purefarm' target='_blank' className="btn btn-primary"><img src={Img8} alt="" /> GOOGLE PLAYSTORE</a>
+                    <a className="btn btn-primary"><img src={Img9} alt="" /> APPLE STORE</a>
                   </div>
                 </div>
               </div>

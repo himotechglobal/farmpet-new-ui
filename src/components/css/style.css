@@ -383,7 +383,6 @@ body.smr-open .slide-menu-right {
   text-align: center;
   font-size: 60px;
   font-weight: 900;
-  padding: 0% 36%;
 }
 
 .bnr>p {
@@ -1081,7 +1080,7 @@ body.smr-open .slide-menu-right {
   justify-content: space-between;
 }
 
-.wrap-9 .bag-39 button {
+.wrap-9 .bag-39 a {
   font-family: "Aeonik";
   font-style: normal;
   font-weight: 400;
@@ -1104,7 +1103,7 @@ body.smr-open .slide-menu-right {
   transition: 0.5s;
 }
 
-.wrap-9 .bag-39 button:hover {
+.wrap-9 .bag-39 a:hover {
   transform: translateY(-8px);
 }
 
