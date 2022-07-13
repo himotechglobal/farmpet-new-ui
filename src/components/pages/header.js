@@ -7,7 +7,7 @@ import "../css/responsive.css";
 // import '../css/navbar.css'
 import $ from "jquery";
 import { Link, Router } from "react-router-dom";
-import logo from "../images/logo.png";
+import logo from "../images/footerlogo.png";
 import burger from "../images/humburger.png";
 import connect from "../images/connect.png";
 import gcircle from "../images/gcircle.png";

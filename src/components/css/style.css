@@ -202,8 +202,8 @@ p {
 }
 
 .border-b {
-  padding: 20px 120px 0px 120px;
-  background-color: #fff0;
+  padding: 10px 120px 10px 120px;
+  background-color: #00000082;
   position: absolute;
   width: 100%;
 }
@@ -236,7 +236,7 @@ p {
 .menu-list-d>li>a {
   display: inline-block;
   text-decoration: none;
-  color: #000;
+  color: #fff;
   font-weight: 400;
   font-size: 16px;
   margin-left: 25px;
@@ -379,7 +379,7 @@ body.smr-open .slide-menu-right {
 
 .bnr>h3 {
   font-family: "Aeonik";
-  color: #23a036;
+  color: #32cf4a;
   text-align: center;
   font-size: 60px;
   font-weight: 900;
@@ -388,7 +388,7 @@ body.smr-open .slide-menu-right {
 
 .bnr>p {
   font-family: "Aeonik";
-  color: #000;
+  color: #fff;
   text-align: center;
   font-size: 24px;
   margin-top: 15px;
@@ -440,13 +440,13 @@ body.smr-open .slide-menu-right {
   background-color: #ff9d2d00;
   padding: 14px 10px;
   width: 210px;
-  color: #19283f;
+  color: #fff;
   text-decoration: none;
   border-radius: 8px;
   letter-spacing: 1px;
   text-align: center;
   transition: 0.5s;
-  border: 1px solid #19283f;
+  border: 1px solid #fff;
 }
 
 .view>a:hover {
@@ -937,6 +937,10 @@ body.smr-open .slide-menu-right {
   top: -79px;
   left: 4px;
   bottom: 0;
+  width: 100%;
+}
+.bag-3 > img {
+  border-radius: 12px;
   width: 100%;
 }
  
